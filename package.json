@@ -21,7 +21,7 @@
   },
   "homepage": "https://github.com/siirila/CtD-javascript-classwork#readme",
   "dependencies": {
-    "lodash": "^4.17.11",
+    "lodash": "^4.17.21",
     "uuid": "^3.3.2"
   }
 }
